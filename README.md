@@ -133,6 +133,9 @@ This ensured that the data imported into Power BI was fully clean.
 
 These slicers allow users to dynamically filter the entire dashboard.
 
+<img width="1421" height="800" alt="Screenshot 2025-11-14 013400" src="https://github.com/user-attachments/assets/5439a19b-2964-40d0-a301-1352bc802cff" />
+
+
 
 📈 Key Insights Extracted
 Product Insights
