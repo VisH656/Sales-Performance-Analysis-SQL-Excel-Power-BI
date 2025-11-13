@@ -1,0 +1,2 @@
+# Sales-Performance-Analysis-SQL-Excel-Power-BI
+End-to-end Sales Performance Analysis project using SQL, Excel, and Power BI. Includes complete data cleaning, validation, modeling, KPI creation, and interactive dashboard development. Covers full workflow: raw data → SQL preprocessing-Excel validation-Power BI dashboard with insights on products, customers, locations, trends, and weekly patterns.
